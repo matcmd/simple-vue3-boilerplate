@@ -1,5 +1,5 @@
 {
-  "name": "frontend-new",
+  "name": "simple-vue3-boilerplate",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -15,8 +15,8 @@
     "configure-husky": "npx husky install && npx husky add .husky/pre-commit \"npx --no-install lint-staged\""
   },
   "dependencies": {
-    "@headlessui/vue": "^1.7.16",
     "pinia": "^2.1.7",
+    "radix-vue": "^1.2.4",
     "vue": "^3.3.4",
     "vue-router": "^4.2.5"
   },

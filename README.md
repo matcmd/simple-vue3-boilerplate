@@ -106,6 +106,6 @@ npm run lint
 npm run lint:style
 ```
 
-## [Headless UI](https://headlessui.com/)
+## [Radix UI - Vue](https://www.radix-vue.com/)
 
 Supports a set of completely unstyled, fully accessible UI components.
