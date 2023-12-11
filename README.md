@@ -106,6 +106,6 @@ npm run lint
 npm run lint:style
 ```
 
-## [Radix UI - Vue](https://www.radix-vue.com/)
+## [PrimeVue UI](https://primevue.org/)
 
 Supports a set of completely unstyled, fully accessible UI components.
