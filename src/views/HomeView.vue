@@ -8,6 +8,5 @@
 .home-page {
   display: flex;
   flex: 1;
-  background-color: $color-blue;
 }
 </style>
