@@ -105,3 +105,7 @@ npm run lint
 ```sh
 npm run lint:style
 ```
+
+## [PrimeVue UI](https://primevue.org/)
+
+Supports a set of completely unstyled, fully accessible UI components.
